@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Gabriel Rodriguez Aguilera. I'm currently studying an engineering degree in renewable energy sources
 <!--
 **gabrielroag/gabrielroag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
