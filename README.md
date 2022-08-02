@@ -15,6 +15,9 @@ My dream is to go to Australia and work there as a professional, contributing to
 
 ![](http://www.renewableenergyhub.com.au/wp-content/uploads/2022/03/2030-and-beyond-blog-image-small-1024x683.png)
 
+## ... And check the kangaroos out
+
+![](https://i.guim.co.uk/img/media/3e179b140c9fa9cec86c4485bcbef09269fac03d/687_44_2313_1388/master/2313.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=79fa5186739a57d01a59b47b32e49f78)
 <!--
 **gabrielroag/gabrielroag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
