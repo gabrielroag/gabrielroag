@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Gabriel Rodriguez Aguilera. I'm currently studying an engineering degree in renewable energy sources
+My name is Gabriel Rodriguez Aguilera. I'm currently studying an engineering degree in renewable energy sources. I'm currently learning programming to solve environmental problems. I'd like to master this subject due to the fact that in our current world everything needs programming to function.
+
+
 <!--
 **gabrielroag/gabrielroag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
