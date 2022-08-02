@@ -8,6 +8,7 @@ I have 4 cats; Sylvester, Berlin, Jimbo and Yumi. 😺😸😹😻
 
 I live in La Paz, Baja California Sur. I think this is one of the best cities I've ever lived in. There's beautiful beaches, streets, the people are nice and the weather is amazing 👌👣☂
 
+https://media.gq.com.mx/photos/60d8cf440902794e675ed059/16:9/w_2560%2Cc_limit/Balandra.jpeg
 
 <!--
 **gabrielroag/gabrielroag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
